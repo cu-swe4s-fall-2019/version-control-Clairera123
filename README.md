@@ -1,3 +1,3 @@
-# version_control
-Get familiar with version control basics
-Added option for division by 0
+math_lib.py 
+
+Does division, now accounts for the denominator being 0. 
