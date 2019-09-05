@@ -3,3 +3,7 @@ def div(a, b):
         return a/b
     else:
     return none
+def add(a,b):
+    return a+b
+
+
